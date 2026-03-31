@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <circle cx="250" cy="230" r="200" fill="white" />
+  <path d="M250 30 A200 200 0 0 1 430 300 L250 230 Z" fill="#FFB74D" />
+  <path d="M430 300 A200 200 0 0 1 160 430 L250 230 Z" fill="#4CAF50" />
+  <path d="M160 430 A200 200 0 0 1 70 130 L250 230 Z" fill="#0D6E71" />
+  <path d="M70 130 A200 200 0 0 1 250 30 L250 230 Z" fill="#B3E5FC" />
+  <path d="M265 150 L320 80 L340 110 Z" fill="#4CAF50" />
+  <path d="M340 350 L380 300 L360 280 Z" fill="#4CAF50" />
+  <path d="M150 380 L120 310 L180 350 Z" fill="#0D6E71" />
+  <path d="M140 120 L90 180 L170 150 Z" fill="#FFB74D" />
+  <text x="120" y="490" fill="#0D6E71" font-family="sans-serif" font-weight="bold" font-size="55">SOFTECH</text>
+  <text x="337" y="490" fill="#FFB74D" font-weight="bold" font-family="sans-serif" font-size="55">3</text>
+  <text x="370" y="490" fill="#4CAF50" font-weight="bold" font-family="sans-serif" font-size="55">6</text>
+  <text x="402" y="490" fill="#0D6E71" font-weight="bold" font-family="sans-serif" font-size="55">0</text>
+  <text x="180" y="520" fill="#4CAF50" font-family="sans-serif" font-style="italic" font-size="30">sustainability matters</text>
+</svg>
